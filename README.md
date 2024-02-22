@@ -1,4 +1,5 @@
 ### Hi there 👋
+Currently studying Software Engineering and hopefully, I can finish it and work as a Developer :)
 
 <!--
 **esteband98/esteband98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
